@@ -1,0 +1,22 @@
+{
+  "name": "stockprizeautomationtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratama1705/StockPrizeAutomationTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratama1705/StockPrizeAutomationTesting/issues"
+  },
+  "homepage": "https://github.com/Pratama1705/StockPrizeAutomationTesting#readme",
+  "dependencies": {
+    "cypress": "^12.15.0"
+  }
+}
