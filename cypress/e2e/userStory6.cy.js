@@ -5,9 +5,6 @@
 // ===================================================
 
 describe('User Story 6 Test Cases', () => {
-  const email = 'testingqaassignment@gmail.com';
-  const pass = 'Testing1234';
-
   beforeEach(() => {
     cy.viewport(1280, 720);
     cy.visit('https://primecodex.com/');
