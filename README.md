@@ -1,4 +1,4 @@
-## How To Run Cypress Test Case (UI Automation & API Automation)
+## How To Run Cypress Test Case
 1. Ensure to already install nodejs and npm
 2. Clone This Repository
 3. Open Terminal/CMD, type npm install and enter. It will install dependencies based on package.json file
